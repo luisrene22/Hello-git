@@ -9,7 +9,3 @@ lista = []
 
 lista.extend(abecedario)
 print(lista)
-
-lista.remove("c")
-
-print(lista)
