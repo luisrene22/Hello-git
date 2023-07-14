@@ -15,4 +15,8 @@ Proceso cien_numeros_naturales
 		n <- n+1;
 		Escribir n;
 	FinMientras
+	Escribir '------------------------------------------------';
+	Escribir 'Se generaron los primeros 100 nmeros naturales';
+	Escribir '          (En orden ascendente)';
+	Escribir '        (hecho por: René Orozco)';
 FinProceso
