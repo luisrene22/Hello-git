@@ -1,3 +1,8 @@
+'''
+Ejercicio 6
+Escribe un programa que pida al usuario 
+una palabra y muestre si es un palíndromo
+'''
 usuario_cadena = input("Ingresa una palabra: ")
 
 usuario_cadena_formateada = usuario_cadena.lower()

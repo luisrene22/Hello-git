@@ -1,3 +1,8 @@
+'''
+Pide números y mételos en una lista, cuando el
+usuario meta un 0 ya dejaremos de insertar.
+Por ultimo, muestra los números ordenados de menor a mayor.
+'''
 contador = True
 lista = list()
 
